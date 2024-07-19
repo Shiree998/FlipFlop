@@ -11,3 +11,9 @@ This repository contains the source code for a flip-flop e-commerce website. Bui
 - Sections for product listings, product details, shopping cart, and checkout
 - Interactive elements for a better user experience
 - Easy navigation and user-friendly interface
+
+#### Project Link:
+
+https://shiree998.github.io/FlipFlop/
+
+
